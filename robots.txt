@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-Mobile
+Disallow:
+
+User-agent: Google Inspection Tool smartphone
+Disallow:
